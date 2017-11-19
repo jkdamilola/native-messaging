@@ -16,7 +16,7 @@ The module exports `Input`, `Output`, and `Transform` transform streams.
 
 Use `Transform` to easily create custom object-to-object transform streams.
 
-```
+
 const nativeMessage = require('./wrapper');
 
 process.stdin
