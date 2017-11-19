@@ -1,0 +1,9 @@
+{
+  "name": "com.timedoctor.desktop",
+  "description": "My Application",
+  "path": "host.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://nfmlekcidhofbknlcbjalpcmpeihdbfg/"
+  ]
+}

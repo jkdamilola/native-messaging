@@ -1,0 +1,9 @@
+{
+  "name": "com.timedoctor.desktop",
+  "description": "My Application",
+  "path": "/Users/mac/IdeaProjects/td-apps/desktop/native_messaging/host.js",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://nfmlekcidhofbknlcbjalpcmpeihdbfg/"
+  ]
+}
